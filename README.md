@@ -26,3 +26,6 @@ The Password Manager is a secure and user-friendly application that allows you t
 **Note:** It is important to keep your master password and the "data.txt" file secure to protect your sensitive information.
 
 ## Preview
+![Screenshot (193)](https://github.com/AdeyemiEmmanuel/Password-Manager/assets/98936329/d14e4129-becd-4914-ac4a-edce268b2422)
+![Screenshot (195)](https://github.com/AdeyemiEmmanuel/Password-Manager/assets/98936329/293db096-6f60-4091-b56d-5490c13884f2)
+![Screenshot (194)](https://github.com/AdeyemiEmmanuel/Password-Manager/assets/98936329/d5988695-66bf-4c35-941c-8699b39dabd5)
