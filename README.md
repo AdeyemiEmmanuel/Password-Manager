@@ -8,6 +8,7 @@ The Password Manager is a secure and user-friendly application that allows you t
 - **Password Generation:** The application offers a built-in password generator that creates strong and unique passwords, helping you improve your online security. The generated password is automatically copied to the clipboard for easy pasting.
 - **Add Passwords to File:** Users can click on the "Add" button to add the entered password, website, and email/username information to a text file named "data.txt". This allows you to maintain a record of your passwords for future reference.
 - **Pop-up Notifications:** The application displays pop-up notifications to confirm the user's password addition and provides a warning message if the user does not fill in all the required information.
+- **Search Button:** Enables users to easily find password information by simply typing in the website name
 
 ## Usage
 
@@ -18,10 +19,12 @@ The Password Manager is a secure and user-friendly application that allows you t
 3. Fill in the website, email/username, and password fields with the appropriate information.
 
 4. Click on the "Add" button to save the entered details. The password, along with the website and email/username, will be saved to the "data.txt" text file.
+   
+6. Input a website name and click on the "Search" button to retrieve the password information of the inputed website if saved.
 
-5. A pop-up notification will confirm the addition of the password, and a warning message will be displayed if any of the required fields are left empty.
+7. A pop-up notification will confirm the addition of the password, and a warning message will be displayed if any of the required fields are left empty.
 
-6. To exit the application, simply close the window.
+8. To exit the application, simply close the window.
 
 **Note:** It is important to keep your master password and the "data.txt" file secure to protect your sensitive information.
 
